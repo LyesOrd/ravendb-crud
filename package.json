@@ -1,0 +1,25 @@
+{
+  "name": "ravendb-crud",
+  "version": "1.0.0",
+  "description": "Simple CRUD you can use for testing RavenDB",
+  "main": "crud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyesOrd/ravendb-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LyesOrd/ravendb-crud/issues"
+  },
+  "homepage": "https://github.com/LyesOrd/ravendb-crud#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "raven": "^2.6.4",
+    "ravendb": "^5.2.10"
+  }
+}
