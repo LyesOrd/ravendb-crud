@@ -1,6 +1,18 @@
 
 ![Logo](https://cloud.ravendb.net/img/menu-raven.2169de16.png)
 
+## Installation de Git
+
+```
+sudo apt install git
+sudo apt update
+```
+
+Une fois l'installation faite, verifié la version pour savoir si git à bien été installé.
+
+```
+git --version
+```
 
 ## Tutoriel RavenDB + NodeJS
 
