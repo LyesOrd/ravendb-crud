@@ -14,6 +14,20 @@ Une fois l'installation faite, verifié la version pour savoir si git à bien é
 git --version
 ```
 
+Une fois installé, vous devez configurer vos variables git à l'aide du fichier config
+
+```
+git config --global user.name "Votre Nom"
+```
+
+Remplacé "Votre Nom" Par votre nom de compte git
+
+```
+git config --global user.email "votre Email"
+```
+
+Remplacée "Votre email" par l'email utilisée de votre compte
+
 ## Tutoriel RavenDB + NodeJS
 
 Cette documentation vous permettra d'installer RavenDB sur Linux/Ubuntu et de faire un CRUD en utilisant RavenDB + NodeJS
